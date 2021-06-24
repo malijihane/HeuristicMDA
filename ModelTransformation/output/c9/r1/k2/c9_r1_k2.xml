@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DataStore
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	dsName="c9_r1_k2">
+	<concepts cName="c1">
+		<row rName="r_c1_1">
+			<key_value kvName="kv_c1_1_ID"><key kName="k_c1_1_ID" kType="Oid" /><value vName="v_c1_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_1"><key kName="k_c1_1_1" kType="" /><value vName="v_c1_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_2"><key kName="k_c1_1_2" kType="" /><value vName="v_c1_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c2">
+		<row rName="r_c2_1">
+			<key_value kvName="kv_c2_1_ID"><key kName="k_c2_1_ID" kType="Oid" /><value vName="v_c2_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c2_1_1"><key kName="k_c2_1_1" kType="" /><value vName="v_c2_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c2_1_2"><key kName="k_c2_1_2" kType="" /><value vName="v_c2_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c3">
+		<row rName="r_c3_1">
+			<key_value kvName="kv_c3_1_ID"><key kName="k_c3_1_ID" kType="Oid" /><value vName="v_c3_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c3_1_1"><key kName="k_c3_1_1" kType="" /><value vName="v_c3_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c3_1_2"><key kName="k_c3_1_2" kType="" /><value vName="v_c3_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c4">
+		<row rName="r_c4_1">
+			<key_value kvName="kv_c4_1_ID"><key kName="k_c4_1_ID" kType="Oid" /><value vName="v_c4_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c4_1_1"><key kName="k_c4_1_1" kType="" /><value vName="v_c4_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c4_1_2"><key kName="k_c4_1_2" kType="" /><value vName="v_c4_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c5">
+		<row rName="r_c5_1">
+			<key_value kvName="kv_c5_1_ID"><key kName="k_c5_1_ID" kType="Oid" /><value vName="v_c5_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c5_1_1"><key kName="k_c5_1_1" kType="" /><value vName="v_c5_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c5_1_2"><key kName="k_c5_1_2" kType="" /><value vName="v_c5_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c6">
+		<row rName="r_c6_1">
+			<key_value kvName="kv_c6_1_ID"><key kName="k_c6_1_ID" kType="Oid" /><value vName="v_c6_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c6_1_1"><key kName="k_c6_1_1" kType="" /><value vName="v_c6_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c6_1_2"><key kName="k_c6_1_2" kType="" /><value vName="v_c6_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c7">
+		<row rName="r_c7_1">
+			<key_value kvName="kv_c7_1_ID"><key kName="k_c7_1_ID" kType="Oid" /><value vName="v_c7_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c7_1_1"><key kName="k_c7_1_1" kType="" /><value vName="v_c7_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c7_1_2"><key kName="k_c7_1_2" kType="" /><value vName="v_c7_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c8">
+		<row rName="r_c8_1">
+			<key_value kvName="kv_c8_1_ID"><key kName="k_c8_1_ID" kType="Oid" /><value vName="v_c8_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c8_1_1"><key kName="k_c8_1_1" kType="" /><value vName="v_c8_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c8_1_2"><key kName="k_c8_1_2" kType="" /><value vName="v_c8_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<concepts cName="c9">
+		<row rName="r_c9_1">
+			<key_value kvName="kv_c9_1_ID"><key kName="k_c9_1_ID" kType="Oid" /><value vName="v_c9_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c9_1_1"><key kName="k_c9_1_1" kType="" /><value vName="v_c9_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c9_1_2"><key kName="k_c9_1_2" kType="" /><value vName="v_c9_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+	<reference rName="ref_c1_1_ID_c2_1_2" source="k_c1_1_ID" target="k_c2_1_2" />
+	<reference rName="ref_c2_1_ID_c3_1_2" source="k_c2_1_ID" target="k_c3_1_2" />
+	<reference rName="ref_c3_1_ID_c4_1_2" source="k_c3_1_ID" target="k_c4_1_2" />
+	<reference rName="ref_c4_1_ID_c5_1_2" source="k_c4_1_ID" target="k_c5_1_2" />
+	<reference rName="ref_c5_1_ID_c6_1_2" source="k_c5_1_ID" target="k_c6_1_2" />
+	<reference rName="ref_c6_1_ID_c7_1_2" source="k_c6_1_ID" target="k_c7_1_2" />
+	<reference rName="ref_c7_1_ID_c8_1_2" source="k_c7_1_ID" target="k_c8_1_2" />
+	<reference rName="ref_c8_1_ID_c9_1_2" source="k_c8_1_ID" target="k_c9_1_2" />
+</DataStore>

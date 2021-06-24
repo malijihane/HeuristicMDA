@@ -1,0 +1,124 @@
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c3_1_ID_c4_1_4(k_c3_1_IDk_c4_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_ID_k_c4_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c3{(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c4_1_4(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},
+ModelsHeuristic/Common Models/Merge_k_c3_1_ID_k_c4_1_4/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c4_1_4_k_c3_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},ref_c2_1_ID_c3_1_4(k_c2_1_IDk_c3_1_4),
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_ID_k_c3_1_4
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,k_c2_1_4(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c1_1_ID_k_c2_1_4/Merge_k_c1_1_ID_k_c2_1_4
+c2{(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,k_c3_1_4(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,),k_c1_1_ID(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,),},
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c2_1_ID_k_c3_1_4/Merge_k_c2_1_4_k_c1_1_ID/Merge_k_c2_1_4_k_c1_1_ID
+c1{(k_c1_1_ID,k_c1_1_1,k_c1_1_2,k_c1_1_3,k_c1_1_4,),},c4{(k_c4_1_ID,k_c4_1_1,k_c4_1_2,k_c4_1_3,k_c4_1_4,k_c3_1_ID(k_c3_1_ID,k_c3_1_1,k_c3_1_2,k_c3_1_3,k_c3_1_4,k_c2_1_ID(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),(k_c2_1_ID,k_c2_1_1,k_c2_1_2,k_c2_1_3,k_c2_1_4,),),},ref_c1_1_ID_c2_1_4(k_c1_1_IDk_c2_1_4),
+ModelsHeuristic/Common Models/Merge_k_c4_1_4_k_c3_1_ID/Merge_k_c3_1_4_k_c2_1_ID/Merge_k_c3_1_4_k_c2_1_ID

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DataStore
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	dsName="c1_r1_k5">
+	<concepts cName="c1">
+		<row rName="r_c1_1">
+			<key_value kvName="kv_c1_1_ID"><key kName="k_c1_1_ID" kType="Oid" /><value vName="v_c1_1_ID" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_1"><key kName="k_c1_1_1" kType="" /><value vName="v_c1_1_1" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_2"><key kName="k_c1_1_2" kType="" /><value vName="v_c1_1_2" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_3"><key kName="k_c1_1_3" kType="" /><value vName="v_c1_1_3" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_4"><key kName="k_c1_1_4" kType="" /><value vName="v_c1_1_4" xsi:type="metamodel:AtomicValue" /></key_value>
+			<key_value kvName="kv_c1_1_5"><key kName="k_c1_1_5" kType="" /><value vName="v_c1_1_5" xsi:type="metamodel:AtomicValue" /></key_value>
+		</row>
+	</concepts>
+</DataStore>
